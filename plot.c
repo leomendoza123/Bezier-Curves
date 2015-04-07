@@ -10,9 +10,8 @@
 #include "malloc.h"
 
 COLOR **buffer;
-int h_size, v_size;
-h_size =400;
-v_size =800;
+int h_size=400;
+int v_size =300;
 
 
 

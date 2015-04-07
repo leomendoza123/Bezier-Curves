@@ -12,3 +12,4 @@ typedef struct {
 void init ();
 void plot ();
 void draw ();
+void draw_scene();
